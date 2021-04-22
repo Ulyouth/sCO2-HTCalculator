@@ -1,3 +1,6 @@
+# sCO2-HTCalculator
+A Heat Transfer Calculator for Supercritical CO2
+
 # Motivation
 * Difficulty of modelling the heat transfer of fluids in supercritical state
 * Standard eqs used for fluids with constant properties cannot be applied for supercritical fluids
