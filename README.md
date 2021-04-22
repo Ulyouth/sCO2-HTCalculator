@@ -8,7 +8,8 @@ A Heat Transfer Calculator for Supercritical CO2
 # Procedure
 * Split the heat transfer domain in nodes (meshing)
 * For each node, iterate the value of the heat transfer coefficient (qw), under the assumption that Tin ≈ Tout
-* With the iterated qw values, calculate the outlet bulk temperature of the domain and repeat the process until the desired value is reached
+* With the iterated qw values, calculate the outlet bulk temperature of the domain
+* Repeat the process until the desired value is reached
 * Plot the results as contours
 
 # Limitations
