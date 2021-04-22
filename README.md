@@ -18,7 +18,7 @@ A Heat Transfer Calculator for Supercritical CO2
 * Only 2D domains are currently supported
 
 # Dependencies
-* CoolProp for CO2 data
+* CoolProp for CO2 data (http://www.coolprop.org/)
 
 # Credits
 * Institute of Nuclear Technology & Energy Systems (IKE) for providing the sCO2 heat transfer eqs
