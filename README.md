@@ -15,7 +15,7 @@ A Heat Transfer Calculator for Supercritical CO2
 # Limitations
 * The equations used are only valid for very restricted conditions
 * qw convergence criterium (Tin ≈ Tout), using the ΔT of the previous channel would be a better estimation for qw
-* Only 2D domains are supported
+* Only 2D domains are currently supported
 
 # Credits
 * Institute of Nuclear Technology & Energy Systems (IKE) for providing the sCO2 heat transfer eqs
