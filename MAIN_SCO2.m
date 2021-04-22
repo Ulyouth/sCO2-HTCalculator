@@ -2,7 +2,7 @@
 %   Supercritical CO2 heat exchanger iterative calculator   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-addpath('C:\\Users\\andre\\Documents\\MATLAB_CoolProp');
+addpath('C:\\Users\\admin\\Documents\\MATLAB_CoolProp');
 clear all; clc;
 
 %% Define the channel-dependent input parameters.
@@ -23,7 +23,7 @@ TbCn = 32 + 273.15; % Outlet CO2 bulk temperature [K]
 TbH0 = 5 + 273.15;  % Inlet H2O bulk temperature [K]
 
 %% Define the channel-independent input parameters.
-kw = 0.054; % Heat conductivity of 0.5% Carbon Steel at 20 °C [kW/(m*K)]
+kw = 0.054; % Heat conductivity of 0.5% Carbon Steel at 20 Â°C [kW/(m*K)]
 qw = -1;    % Cooling wall heat flux for a single channel [kW/m2]
 
 %% Define the input delta values.
